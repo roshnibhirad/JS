@@ -1,0 +1,20 @@
+body{
+background-color:#DEDDDD;
+}
+
+h1{
+color:#533434;
+}
+
+input{
+border:1px solid black;
+}
+
+input:focus{
+background-color: #E6E6E6;
+}
+
+fieldset{
+margin-bottom: 4%;
+}
+
